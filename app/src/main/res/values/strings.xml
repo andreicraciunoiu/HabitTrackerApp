@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Habit Tracker</string>
+
+    <string name="action_insert_habit_data">Insert Habit Data</string>
+    <string name="action_delete_all_entries">Delete All </string>
+    <string name="editor_activity_title_new_habit">Add a Habit</string>
+
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+
+    <string name="category_habit">Habit</string>
+    <string name="category_day">Day</string>
+    <string name="category_enjoyment">Enjoyment</string>
+    <string name="category_difficulty">Difficulty</string>
+    <string name="distance_category">Distance</string>
+
+    <string name="unit_meters">m</string>
+
+    <string name="habit_name_hint">Habit name</string>
+    <string name="difficulty_hint">ex: Easy</string>
+    <string name="distance_hint">Distance</string>
+
+    <string name="distance_unit">Km</string>
+
+    <string name="day_sunday">Sunday</string>
+    <string name="day_monday">Monday</string>
+    <string name="day_tuesday">Tuesday</string>
+    <string name="day_wednesday">Wednesday</string>
+    <string name="day_thursday">Thursday</string>
+    <string name="day_friday">Friday</string>
+    <string name="day_saturday">Saturday</string>
+
+    <string name="level1">1</string>
+    <string name="level2">2</string>
+    <string name="level3">3</string>
+    <string name="level4">4</string>
+    <string name="level5">5</string>
+
+</resources>
+

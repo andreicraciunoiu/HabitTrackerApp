@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E0E0E0"
+    tools:context=".TrackerActivity">
+
+    <TextView
+        android:id="@+id/text_view_habit"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/tracker_text_view_margin"
+        android:textColor="@color/textColor" />
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_margin="@dimen/fab_frame_margin_dimension">
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fab"
+            android:layout_width="@dimen/fab_height"
+            android:layout_height="@dimen/fab_height"
+            android:layout_margin="@dimen/fab_margin_dimension"
+            android:src="@drawable/icon_trainers" />
+    </FrameLayout>
+</RelativeLayout>

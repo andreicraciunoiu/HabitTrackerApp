@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_margin">8dp</dimen>
+
+    <dimen name="tracker_text_view_margin">16dp</dimen>
+
+    <!--Floating action button frame dimensions-->
+    <dimen name="fab_frame_margin_dimension">20dp</dimen>
+
+    <!--Floating action button frame dimensions-->
+    <dimen name="fab_margin_dimension">4dp</dimen>
+    <dimen name="fab_height">80dp</dimen>
+</resources>

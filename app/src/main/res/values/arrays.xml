@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_days_options">
+        <item>@string/day_sunday</item>
+        <item>@string/day_monday</item>
+        <item>@string/day_tuesday</item>
+        <item>@string/day_wednesday</item>
+        <item>@string/day_thursday</item>
+        <item>@string/day_friday</item>
+        <item>@string/day_saturday</item>
+
+    </string-array>
+
+    <string-array name="enjoyment_levels">
+        <item>@string/level1</item>
+        <item>@string/level2</item>
+        <item>@string/level3</item>
+        <item>@string/level4</item>
+        <item>@string/level5</item>
+
+    </string-array>
+</resources>
