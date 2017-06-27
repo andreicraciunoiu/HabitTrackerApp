@@ -10,4 +10,10 @@
     <!--Floating action button frame dimensions-->
     <dimen name="fab_margin_dimension">4dp</dimen>
     <dimen name="fab_height">80dp</dimen>
+
+    <!--categoryStyle dimensions-->
+    <dimen name="style_padding_top">16dp</dimen>
+
+    <!--categoryStyle dimensions-->
+    <dimen name="spinner_height">48dp</dimen>
 </resources>
